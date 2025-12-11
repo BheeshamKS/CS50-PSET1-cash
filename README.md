@@ -1,4 +1,4 @@
-# CS50 PSET1 - Cash
+# CS50 PROBLEM SET 1 - Cash
 
 This repository contains my solution for the Cash problem from Harvard's CS50 Problem Set 1. The program calculates the minimum number of coins needed to give a user change.
 
